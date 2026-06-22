@@ -8,7 +8,7 @@
 
 # LIMBO — when what you have is real but has no name
 
-![LIMBO banner](img/banner.png)
+![LIMBO banner](banner.png)
 
 ---
 
